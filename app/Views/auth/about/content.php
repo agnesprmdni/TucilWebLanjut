@@ -13,8 +13,7 @@
   <div class="card-body">
     <h5 class="card-title text-center">Agnes Pramudani</h5>
     <h5 class="card-title text-center">NPM: 1857051004</h5>
-    <p class="card-text text-center">Agnes Pramudani adalah Mahasiswa</p>
-    <p class="card-text text-center">jurusan Ilmu Komputer Semester 5 Universitas Lampung </p>
+    <p class="card-text text-center">"Don't tell people your plan, show them your result"</p>
 
     <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
   </div>

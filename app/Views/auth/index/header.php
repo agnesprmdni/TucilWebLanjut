@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
 
  <div class="container">
   <a class="navbar-brand font-weight-bold" href="<?= base_url('/'); ?>">Selamat Datang di Hellaw Paw!</a>
